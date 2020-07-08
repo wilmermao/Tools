@@ -1,0 +1,22 @@
+Alert
+  OSSEC
+  Wazuh
+  Snort
+  Suricata
+
+Asset
+  Zeek
+  user-agent
+
+Flow
+  Netsniff-ng
+
+Host Data
+  Beats
+  Wazuh
+ 
+Session
+  Zeek
+ 
+Statistical
+  Capinfors
